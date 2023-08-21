@@ -7,6 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B2F87E89B5A592FD464E5B4A /* Pods_SocialAppTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50C9C5CAED8177F26B5D9FEC /* Pods_SocialAppTest.framework */; };
+		F49299CB2A900C4D00212F9B /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49299CA2A900C4D00212F9B /* RegisterViewController.swift */; };
+		F49299CF2A90126A00212F9B /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299CE2A90126A00212F9B /* Poppins-Black.ttf */; };
+		F49299DD2A90129000212F9B /* Poppins-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299D02A90128F00212F9B /* Poppins-ExtraLight.ttf */; };
+		F49299DE2A90129000212F9B /* Poppins-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299D12A90128F00212F9B /* Poppins-LightItalic.ttf */; };
+		F49299DF2A90129000212F9B /* Poppins-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299D22A90128F00212F9B /* Poppins-SemiBoldItalic.ttf */; };
+		F49299E02A90129000212F9B /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299D32A90128F00212F9B /* Poppins-Light.ttf */; };
+		F49299E12A90129000212F9B /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299D42A90128F00212F9B /* Poppins-SemiBold.ttf */; };
+		F49299E22A90129000212F9B /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299D52A90129000212F9B /* Poppins-Thin.ttf */; };
+		F49299E32A90129000212F9B /* Poppins-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299D62A90129000212F9B /* Poppins-Italic.ttf */; };
+		F49299E42A90129000212F9B /* Poppins-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299D72A90129000212F9B /* Poppins-ExtraLightItalic.ttf */; };
+		F49299E52A90129000212F9B /* Poppins-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299D82A90129000212F9B /* Poppins-ThinItalic.ttf */; };
+		F49299E62A90129000212F9B /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299D92A90129000212F9B /* Poppins-Medium.ttf */; };
+		F49299E72A90129000212F9B /* Poppins-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299DA2A90129000212F9B /* Poppins-ExtraBoldItalic.ttf */; };
+		F49299E82A90129000212F9B /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299DB2A90129000212F9B /* Poppins-Regular.ttf */; };
+		F49299E92A90129000212F9B /* Poppins-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299DC2A90129000212F9B /* Poppins-MediumItalic.ttf */; };
+		F49299EE2A9012AA00212F9B /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299EA2A9012AA00212F9B /* Poppins-Bold.ttf */; };
+		F49299EF2A9012AA00212F9B /* Poppins-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299EB2A9012AA00212F9B /* Poppins-BoldItalic.ttf */; };
+		F49299F02A9012AA00212F9B /* Poppins-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299EC2A9012AA00212F9B /* Poppins-BlackItalic.ttf */; };
+		F49299F12A9012AA00212F9B /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F49299ED2A9012AA00212F9B /* Poppins-ExtraBold.ttf */; };
+		F49299F42A902B2700212F9B /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49299F32A902B2700212F9B /* UIColor+Extension.swift */; };
+		F49299FA2A90C5F600212F9B /* LoginResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49299F92A90C5F600212F9B /* LoginResponse.swift */; };
 		F4E63A5F2A8E3BBE004FF7EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E63A5E2A8E3BBE004FF7EE /* AppDelegate.swift */; };
 		F4E63A612A8E3BBE004FF7EE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E63A602A8E3BBE004FF7EE /* SceneDelegate.swift */; };
 		F4E63A662A8E3BBE004FF7EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4E63A642A8E3BBE004FF7EE /* Main.storyboard */; };
@@ -16,6 +38,30 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4DE639B67768F9FBF471D0D9 /* Pods-SocialAppTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SocialAppTest.release.xcconfig"; path = "Target Support Files/Pods-SocialAppTest/Pods-SocialAppTest.release.xcconfig"; sourceTree = "<group>"; };
+		50C9C5CAED8177F26B5D9FEC /* Pods_SocialAppTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SocialAppTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9730E35B627F8515327C9AF /* Pods-SocialAppTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SocialAppTest.debug.xcconfig"; path = "Target Support Files/Pods-SocialAppTest/Pods-SocialAppTest.debug.xcconfig"; sourceTree = "<group>"; };
+		F49299CA2A900C4D00212F9B /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		F49299CE2A90126A00212F9B /* Poppins-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Black.ttf"; sourceTree = "<group>"; };
+		F49299D02A90128F00212F9B /* Poppins-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraLight.ttf"; sourceTree = "<group>"; };
+		F49299D12A90128F00212F9B /* Poppins-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-LightItalic.ttf"; sourceTree = "<group>"; };
+		F49299D22A90128F00212F9B /* Poppins-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		F49299D32A90128F00212F9B /* Poppins-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Light.ttf"; sourceTree = "<group>"; };
+		F49299D42A90128F00212F9B /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		F49299D52A90129000212F9B /* Poppins-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Thin.ttf"; sourceTree = "<group>"; };
+		F49299D62A90129000212F9B /* Poppins-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Italic.ttf"; sourceTree = "<group>"; };
+		F49299D72A90129000212F9B /* Poppins-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		F49299D82A90129000212F9B /* Poppins-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ThinItalic.ttf"; sourceTree = "<group>"; };
+		F49299D92A90129000212F9B /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Medium.ttf"; sourceTree = "<group>"; };
+		F49299DA2A90129000212F9B /* Poppins-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		F49299DB2A90129000212F9B /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		F49299DC2A90129000212F9B /* Poppins-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-MediumItalic.ttf"; sourceTree = "<group>"; };
+		F49299EA2A9012AA00212F9B /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		F49299EB2A9012AA00212F9B /* Poppins-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-BoldItalic.ttf"; sourceTree = "<group>"; };
+		F49299EC2A9012AA00212F9B /* Poppins-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-BlackItalic.ttf"; sourceTree = "<group>"; };
+		F49299ED2A9012AA00212F9B /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraBold.ttf"; sourceTree = "<group>"; };
+		F49299F32A902B2700212F9B /* UIColor+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
+		F49299F92A90C5F600212F9B /* LoginResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginResponse.swift; sourceTree = "<group>"; };
 		F4E63A5B2A8E3BBE004FF7EE /* SocialAppTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SocialAppTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4E63A5E2A8E3BBE004FF7EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4E63A602A8E3BBE004FF7EE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -31,17 +77,111 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2F87E89B5A592FD464E5B4A /* Pods_SocialAppTest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C234A36911C8B9F69CCF57CA /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B9730E35B627F8515327C9AF /* Pods-SocialAppTest.debug.xcconfig */,
+				4DE639B67768F9FBF471D0D9 /* Pods-SocialAppTest.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		C65984F12308E22433804AA9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				50C9C5CAED8177F26B5D9FEC /* Pods_SocialAppTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F49299CC2A90122B00212F9B /* FontFamily */ = {
+			isa = PBXGroup;
+			children = (
+				F49299CD2A90123900212F9B /* Font */,
+			);
+			path = FontFamily;
+			sourceTree = "<group>";
+		};
+		F49299CD2A90123900212F9B /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				F49299EC2A9012AA00212F9B /* Poppins-BlackItalic.ttf */,
+				F49299EA2A9012AA00212F9B /* Poppins-Bold.ttf */,
+				F49299EB2A9012AA00212F9B /* Poppins-BoldItalic.ttf */,
+				F49299ED2A9012AA00212F9B /* Poppins-ExtraBold.ttf */,
+				F49299DA2A90129000212F9B /* Poppins-ExtraBoldItalic.ttf */,
+				F49299D02A90128F00212F9B /* Poppins-ExtraLight.ttf */,
+				F49299D72A90129000212F9B /* Poppins-ExtraLightItalic.ttf */,
+				F49299D62A90129000212F9B /* Poppins-Italic.ttf */,
+				F49299D32A90128F00212F9B /* Poppins-Light.ttf */,
+				F49299D12A90128F00212F9B /* Poppins-LightItalic.ttf */,
+				F49299D92A90129000212F9B /* Poppins-Medium.ttf */,
+				F49299DC2A90129000212F9B /* Poppins-MediumItalic.ttf */,
+				F49299DB2A90129000212F9B /* Poppins-Regular.ttf */,
+				F49299D42A90128F00212F9B /* Poppins-SemiBold.ttf */,
+				F49299D22A90128F00212F9B /* Poppins-SemiBoldItalic.ttf */,
+				F49299D52A90129000212F9B /* Poppins-Thin.ttf */,
+				F49299D82A90129000212F9B /* Poppins-ThinItalic.ttf */,
+				F49299CE2A90126A00212F9B /* Poppins-Black.ttf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+		F49299F22A902B0C00212F9B /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				F49299F32A902B2700212F9B /* UIColor+Extension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		F49299F52A90B1C500212F9B /* Screen */ = {
+			isa = PBXGroup;
+			children = (
+				F49299F72A90B21E00212F9B /* Login */,
+				F49299F62A90B1CD00212F9B /* Register */,
+			);
+			path = Screen;
+			sourceTree = "<group>";
+		};
+		F49299F62A90B1CD00212F9B /* Register */ = {
+			isa = PBXGroup;
+			children = (
+				F49299CA2A900C4D00212F9B /* RegisterViewController.swift */,
+			);
+			path = Register;
+			sourceTree = "<group>";
+		};
+		F49299F72A90B21E00212F9B /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				F4E63A722A8E3BDF004FF7EE /* LoginViewController.swift */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		F49299F82A90C5E600212F9B /* Response */ = {
+			isa = PBXGroup;
+			children = (
+				F49299F92A90C5F600212F9B /* LoginResponse.swift */,
+			);
+			path = Response;
+			sourceTree = "<group>";
+		};
 		F4E63A522A8E3BBE004FF7EE = {
 			isa = PBXGroup;
 			children = (
 				F4E63A5D2A8E3BBE004FF7EE /* SocialAppTest */,
 				F4E63A5C2A8E3BBE004FF7EE /* Products */,
+				C234A36911C8B9F69CCF57CA /* Pods */,
+				C65984F12308E22433804AA9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,9 +196,12 @@
 		F4E63A5D2A8E3BBE004FF7EE /* SocialAppTest */ = {
 			isa = PBXGroup;
 			children = (
+				F49299F82A90C5E600212F9B /* Response */,
+				F49299F52A90B1C500212F9B /* Screen */,
+				F49299F22A902B0C00212F9B /* Extensions */,
+				F49299CC2A90122B00212F9B /* FontFamily */,
 				F4E63A5E2A8E3BBE004FF7EE /* AppDelegate.swift */,
 				F4E63A602A8E3BBE004FF7EE /* SceneDelegate.swift */,
-				F4E63A722A8E3BDF004FF7EE /* LoginViewController.swift */,
 				F4E63A642A8E3BBE004FF7EE /* Main.storyboard */,
 				F4E63A672A8E3BBF004FF7EE /* Assets.xcassets */,
 				F4E63A692A8E3BBF004FF7EE /* LaunchScreen.storyboard */,
@@ -74,9 +217,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F4E63A6F2A8E3BBF004FF7EE /* Build configuration list for PBXNativeTarget "SocialAppTest" */;
 			buildPhases = (
+				345058B5E33451C877C27CCC /* [CP] Check Pods Manifest.lock */,
 				F4E63A572A8E3BBE004FF7EE /* Sources */,
 				F4E63A582A8E3BBE004FF7EE /* Frameworks */,
 				F4E63A592A8E3BBE004FF7EE /* Resources */,
+				9A342A9044F2BF827F7EC0CD /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -125,13 +270,73 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F49299E42A90129000212F9B /* Poppins-ExtraLightItalic.ttf in Resources */,
+				F49299EE2A9012AA00212F9B /* Poppins-Bold.ttf in Resources */,
+				F49299E62A90129000212F9B /* Poppins-Medium.ttf in Resources */,
+				F49299DD2A90129000212F9B /* Poppins-ExtraLight.ttf in Resources */,
+				F49299EF2A9012AA00212F9B /* Poppins-BoldItalic.ttf in Resources */,
+				F49299DE2A90129000212F9B /* Poppins-LightItalic.ttf in Resources */,
+				F49299CF2A90126A00212F9B /* Poppins-Black.ttf in Resources */,
+				F49299E02A90129000212F9B /* Poppins-Light.ttf in Resources */,
+				F49299DF2A90129000212F9B /* Poppins-SemiBoldItalic.ttf in Resources */,
+				F49299E82A90129000212F9B /* Poppins-Regular.ttf in Resources */,
+				F49299F12A9012AA00212F9B /* Poppins-ExtraBold.ttf in Resources */,
 				F4E63A6B2A8E3BBF004FF7EE /* LaunchScreen.storyboard in Resources */,
+				F49299E12A90129000212F9B /* Poppins-SemiBold.ttf in Resources */,
+				F49299F02A9012AA00212F9B /* Poppins-BlackItalic.ttf in Resources */,
+				F49299E72A90129000212F9B /* Poppins-ExtraBoldItalic.ttf in Resources */,
+				F49299E92A90129000212F9B /* Poppins-MediumItalic.ttf in Resources */,
+				F49299E32A90129000212F9B /* Poppins-Italic.ttf in Resources */,
 				F4E63A682A8E3BBF004FF7EE /* Assets.xcassets in Resources */,
+				F49299E52A90129000212F9B /* Poppins-ThinItalic.ttf in Resources */,
 				F4E63A662A8E3BBE004FF7EE /* Main.storyboard in Resources */,
+				F49299E22A90129000212F9B /* Poppins-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		345058B5E33451C877C27CCC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SocialAppTest-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9A342A9044F2BF827F7EC0CD /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SocialAppTest/Pods-SocialAppTest-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SocialAppTest/Pods-SocialAppTest-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SocialAppTest/Pods-SocialAppTest-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		F4E63A572A8E3BBE004FF7EE /* Sources */ = {
@@ -140,7 +345,10 @@
 			files = (
 				F4E63A732A8E3BDF004FF7EE /* LoginViewController.swift in Sources */,
 				F4E63A5F2A8E3BBE004FF7EE /* AppDelegate.swift in Sources */,
+				F49299FA2A90C5F600212F9B /* LoginResponse.swift in Sources */,
 				F4E63A612A8E3BBE004FF7EE /* SceneDelegate.swift in Sources */,
+				F49299CB2A900C4D00212F9B /* RegisterViewController.swift in Sources */,
+				F49299F42A902B2700212F9B /* UIColor+Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +490,7 @@
 		};
 		F4E63A702A8E3BBF004FF7EE /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B9730E35B627F8515327C9AF /* Pods-SocialAppTest.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -310,6 +519,7 @@
 		};
 		F4E63A712A8E3BBF004FF7EE /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4DE639B67768F9FBF471D0D9 /* Pods-SocialAppTest.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
